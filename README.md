@@ -7,4 +7,5 @@ Welcome to my repository! Here, you'll find a comprehensive outline and detailed
 All of the information you need to know about the course and exam are listed below:
 
 Course: [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
+
 Exam: [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)

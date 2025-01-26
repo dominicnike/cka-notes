@@ -1,6 +1,6 @@
 # Docker vs Containerd
 
-Udemy Video Link: <https://cglearning.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/37105770#overview>
+Udemy Video Link: <https://udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/37105770#overview>
 
 ![Kubernetes Containerd Tools](../../imgs/notes/section_2/k8s_containerd_tools.png)
 
