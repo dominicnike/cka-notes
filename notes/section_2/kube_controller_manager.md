@@ -1,6 +1,6 @@
 # Kube Controller Manager
 
-Udemy Video Link: <https://cglearning.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14298428#content>
+Udemy Video Link: <https://udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14298428#content>
 
 ## Notes
 
